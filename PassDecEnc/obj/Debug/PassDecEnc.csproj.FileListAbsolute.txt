@@ -1,0 +1,11 @@
+C:\Users\smyde\source\repos\PassDecEnc\bin\Debug\PassDecEnc.exe.config
+C:\Users\smyde\source\repos\PassDecEnc\bin\Debug\PassDecEnc.exe
+C:\Users\smyde\source\repos\PassDecEnc\bin\Debug\PassDecEnc.pdb
+C:\Users\smyde\source\repos\PassDecEnc\obj\Debug\PassDecEnc.csproj.AssemblyReference.cache
+C:\Users\smyde\source\repos\PassDecEnc\obj\Debug\PassDecEnc.csproj.SuggestedBindingRedirects.cache
+C:\Users\smyde\source\repos\PassDecEnc\obj\Debug\PassDecEnc.Form1.resources
+C:\Users\smyde\source\repos\PassDecEnc\obj\Debug\PassDecEnc.Properties.Resources.resources
+C:\Users\smyde\source\repos\PassDecEnc\obj\Debug\PassDecEnc.csproj.GenerateResource.cache
+C:\Users\smyde\source\repos\PassDecEnc\obj\Debug\PassDecEnc.csproj.CoreCompileInputs.cache
+C:\Users\smyde\source\repos\PassDecEnc\obj\Debug\PassDecEnc.exe
+C:\Users\smyde\source\repos\PassDecEnc\obj\Debug\PassDecEnc.pdb
